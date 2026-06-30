@@ -1,4 +1,4 @@
-#UVIRC
+# UVIRC
 
 A modern, event-driven Internet Relay Chat (IRC) server built with **libuv**.
 
